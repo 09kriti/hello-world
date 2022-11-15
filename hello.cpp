@@ -5,6 +5,6 @@ int main()
   
   cout<<"Hello World";/*prints hello world*/
   
-  cout<"This is an updated one(branch 1)";
+  cout<"This is an updated one(branch 2)";
   return 0;
 }
